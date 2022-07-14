@@ -1,47 +1,9 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
-
 # ProGrad Lab | BRRRGRRR
 
-Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of ProGrads and she thought you could do a great job. 
+Try it out!:
 
-Help Mama create a website that'll attract more audience and help her make a living through it. Go to the `src/app.js` file and complete all the unfinished code to let her live here dream.
+#Loading Screen:
+![image](https://user-images.githubusercontent.com/22547443/179033294-16afafec-d7da-40b6-8f8c-245f7f417aa9.png)
 
-## What should you do
-```
-Fork this repo
-Clone this repo
-Practice DOM Features
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
-
-### Progression 1: LAYERS
-
-As your first task, you've got to enable the different layers of the burger on the screen. Create a `render()` for each ingredient and make sure that it displays the selected layer.
-
-### Progression 2: LAYER THEM UP
-
-Setup `EventListeners`, so that we can add or remove different ingredients by clicking on the respective ingredient buttons. That's the whole point of it.
-
-### Challenge 1: IT GETS CHEESEY
-
-Make the ingredient buttons pop up based on their current active state. This would help customers identify what ingredients they've selected and what's left out.
-
-### Challenge 2: TAKE THE ORDER
-
-Show the customer only the ingredients that they've selected on the chalk board.
-
-### Challenge 3: BILL TIME
-
-The customer has had a good time customizing his brrrgrrr. Time for him to pay. Use ingredient prices to calculate the cost of a brrrgrrr and display it to the customer.
-
-Happy Coding ProGrad ❤️
+#Mainpage:
+![image](https://user-images.githubusercontent.com/22547443/179033414-fd0553f0-5e84-4d6e-96d1-e1c6c70db042.png)
